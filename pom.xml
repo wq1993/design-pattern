@@ -14,6 +14,7 @@
         <module>singleton-pattern</module>
         <module>decorator-pattern</module>
         <module>observer-pattern</module>
+        <module>prototype-pattern</module>
     </modules>
 
     <properties>
