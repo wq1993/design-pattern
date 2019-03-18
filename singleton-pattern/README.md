@@ -94,16 +94,9 @@
              private static final InnerClassLazySingleton singleton = new InnerClassLazySingleton();
          }
      }
-     ```
-
+     
      ![](/image/单例模式内部类加载uml图.png)
-
-     ```java
      
-     ```
-
-     
-
 3. 注册式单例：
 
    * 枚举实现：JDK底层保证了枚举式单例不被破坏。
