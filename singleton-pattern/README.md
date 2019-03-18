@@ -96,7 +96,7 @@
      }
      ```
 
-     ![](F:\code\design-pattern\singleton-pattern\src\image\单例模式内部类加载uml图.png)
+     ![](/image/单例模式内部类加载uml图.png)
 
      ```java
      
