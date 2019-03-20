@@ -15,6 +15,7 @@
         <module>decorator-pattern</module>
         <module>observer-pattern</module>
         <module>prototype-pattern</module>
+        <module>proxy-pattern</module>
     </modules>
 
     <properties>
